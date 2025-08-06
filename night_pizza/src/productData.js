@@ -1,0 +1,58 @@
+export const products = [
+  {
+    id: 1,
+    name: "Pepperoni Passion",
+    description: "Classic pepperoni, mozzarella, and a tangy tomato sauce.",
+    price: 15.99,
+    imageUrl: "https://images.unsplash.com/photo-1604382370776-6515c1e9e03d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTQyMjl8MHwxfHNlYXJjaHwxfHxwZXBwZXJvbmklMjBwaXp6YXxlbnwwfHx8fDE2ODczODgzODR8MA&ixlib=rb-4.0.3&q=80&w=1080",
+  },
+  {
+    id: 2,
+    name: "Veggie Delight",
+    description: "Fresh peppers, onions, olives, and mushrooms on a whole-wheat crust.",
+    price: 14.99,
+    imageUrl: "https://images.unsplash.com/photo-1628840042767-3392f759c5d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTQyMjl8MHwxfHNlYXJjaHwyfHx2ZWdnaWUlMjBwaXp6YXxlbnwwfHx8fDE2ODczODgzODR8MA&ixlib=rb-4.0.3&q=80&w=1080",
+  },
+  {
+    id: 3,
+    name: "Meat Lover's",
+    description: "Sausage, bacon, ham, and pepperoni for the ultimate feast.",
+    price: 17.99,
+    imageUrl: "https://images.unsplash.com/photo-1613569974249-1d4e0e227e99?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTQyMjl8MHwxfHNlYXJjaHwzfHxtZWF0JTIwbG92ZXJzJTIwcGl6emF8ZW58MHx8fHwxNjg3Mzg4Mzg0fDA&ixlib=rb-4.0.3&q=80&w=1080",
+  },
+  {
+    id: 4,
+    name: "Supreme",
+    description: "Everything you love: pepperoni, sausage, peppers, onions, and olives.",
+    price: 18.99,
+    imageUrl: "https://images.unsplash.com/photo-1594002672152-4411130d70ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTQyMjl8MHwxfHNlYXJjaHw0fHxzdXByZW1lJTIwcGl6emF8ZW58MHx8fHwxNjg3Mzg4Mzg0fDA&ixlib=rb-4.0.3&q=80&w=1080",
+  },
+  {
+    id: 5,
+    name: "BBQ Chicken",
+    description: "Grilled chicken, red onion, and a smoky BBQ sauce on a thin crust.",
+    price: 16.99,
+    imageUrl: "https://images.unsplash.com/photo-1596767562854-5a91e5e69e32?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTQyMjl8MHwxfHNlYXJjaHw2fHxiYnElMjBjaGlja2VuJTIwcGl6emF8ZW58MHx8fHwxNjg3Mzg4Mzg0fDA&ixlib=rb-4.0.3&q=80&w=1080",
+  },
+  {
+    id: 6,
+    name: "Hawaiian",
+    description: "A controversial classic with ham and juicy pineapple chunks.",
+    price: 15.99,
+    imageUrl: "https://images.unsplash.com/photo-1621295281439-011d61993214?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTQyMjl8MHwxfHNlYXJjaHw3fHxoYXdhaWlhbiUyMHBpenphfGVufDB8fHx8MTY4NzM4ODM4NHww&ixlib=rb-4.0.3&q=80&w=1080",
+  },
+  {
+    id: 7,
+    name: "Margarita",
+    description: "Fresh mozzarella, basil, and a simple but elegant tomato sauce.",
+    price: 13.99,
+    imageUrl: "https://images.unsplash.com/photo-1595854341515-d9e23293c5d6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTQyMjl8MHwxfHNlYXJjaHw5fHxtYXJndWVyaXRhJTIwcGl6emF8ZW58MHx8fHwxNjg3Mzg4Mzg0fDA&ixlib=rb-4.0.3&q=80&w=1080",
+  },
+  {
+    id: 8,
+    name: "Cheese Pizza",
+    description: "A simple and delicious classic with extra mozzarella cheese.",
+    price: 12.99,
+    imageUrl: "https://images.unsplash.com/photo-1601676646877-c918c5750d53?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTQyMjl8MHwxfHNlYXJjaHw4fHxjaGVlc2UlMjBwaXp6YXxlbnwwfHx8fDE2ODczODgzODR8MA&ixlib=rb-4.0.3&q=80&w=1080",
+  },
+];
