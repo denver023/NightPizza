@@ -1,5 +1,5 @@
 import React from 'react';
-import { products } from '../productData';
+import { products } from './productData';
 
 const Home = () => {
   return (
