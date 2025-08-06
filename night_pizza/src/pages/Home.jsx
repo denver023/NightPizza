@@ -12,9 +12,9 @@ const Home = () => {
         <p className="text-xl text-gray-300 mb-8">
           The best pizza for your late-night cravings. Fast delivery, fresh ingredients.
         </p>
-        <a href="/products" className="bg-yellow-400 text-gray-900 font-bold py-3 px-8 rounded-full text-lg hover:bg-yellow-300 transition-colors duration-300">
+        <Link to="/products" className="bg-yellow-400 text-gray-900 font-bold py-3 px-8 rounded-full text-lg hover:bg-yellow-300 transition-colors duration-300">
           Order Now
-        </a>
+        </Link>
       </main>
 
       {/* Features Section */}
